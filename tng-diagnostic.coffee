@@ -40,7 +40,7 @@ module.exports = (robot) ->
         "All systems are running normally."    
       ],
       [
-        "One minute until #{system}'s radation levels become fatal!", 
+        "One minute until #{system}'s radiation levels become fatal!", 
         "#{systemCapitalized}'s shields are down by 95%!", 
         "All systems are running normally."      
       ],
@@ -56,7 +56,7 @@ module.exports = (robot) ->
       ],
       [
         "There's a minor neutrino build up on #{system}.", 
-        "#{systemCapitalized}'s radation levels are within safe parameters.", 
+        "#{systemCapitalized}'s radiation levels are within safe parameters.", 
         "All systems are running normally."
       ]
     ]
