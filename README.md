@@ -7,11 +7,11 @@
 
 ## Supported commands:
 - `@hubot: run a level [level: 1-5] diagnostic on [system]`.
-- Hubot will pretend to preform a diagnostic and give you a message based on your system and diagnostic level.
+-- Hubot will pretend to preform a diagnostic and give you a message based on your system and diagnostic level.
 - `@hubot: shields [command: up, down, status]`.
-- Hubot will raise or lower the sheilds, or give you a report of their current status.
+-- Hubot will raise or lower the sheilds, or give you a report of their current status.
 - `@hubot: fire [command: phasers, photon torpedoes] at [target]`.
-- Hubot will tell you it fired what you selected, and will give your a message about whether or not it was successful
+-- Hubot will tell you it fired what you selected, and will give your a message about whether or not it was successful
 
 ###Hat tips:
 - [Memory Alpha Diagnostic Mode Description](http://en.memory-alpha.org/wiki/Diagnostic_mode)
